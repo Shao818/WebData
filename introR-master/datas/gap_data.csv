@@ -1,0 +1,10 @@
+"","site","species","sample_num","bees_present"
+"1","Bilpin","A. longiforlia",1,TRUE
+"2",NA,NA,2,TRUE
+"3",NA,NA,3,TRUE
+"4",NA,"A. elongata",1,TRUE
+"5",NA,NA,2,FALSE
+"6",NA,NA,3,TRUE
+"7","Grose Vale","A. terminalis",1,FALSE
+"8",NA,NA,2,FALSE
+"9",NA,NA,2,TRUE
